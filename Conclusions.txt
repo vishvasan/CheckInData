@@ -1,4 +1,4 @@
-The data represented through the describe() functions displays information about each column and gives a clear breakdown of the
+The data represented through the describe() function displays information about each column and gives a clear breakdown of the
 count, mean, standard deviation, and the five-number summary (Min, Q1, Median, Q3, Max). 
 The unique() function for each column returns an array of all the unique values in the given column.
 The value_counts() function for each column returns an object containing the counts of the unique values in the given column.
