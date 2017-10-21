@@ -1,0 +1,1 @@
+The data represented through the describe functions displays information about each column and gives a clear breakdown of the count, mean, standard deviation, and the five-number summary (Min, Q1, Median, Q3, Max). 
